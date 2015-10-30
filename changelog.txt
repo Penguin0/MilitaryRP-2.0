@@ -1,0 +1,31 @@
+-- v2.0.3 --
+October 25, 2015
+
+- Replaced Russia with the "New World Order"
+	- The NWO is faction with highly advanced technology and weaponry. Their goal is to take over the world and start a totalitarian government.
+- Replaced M9K and CSS weapons with Customizable Weaponry!
+
+-- v2.0.2 --
+October 19, 2015
+
+- Changed C.E.L.L Heavy Infantry shotgun.
+- Fixed job colors.
+- Added a C.E.L.L Sniper for silver+.
+- Decreased Scavenger slots to 5.
+- Decreased Weapons Dealer slots to 3.
+- Modified C.E.L.L Special Forces loadout.
+- Renamed ""Admin on Duty" to "Staff on duty".
+- Reenabled kill feed in the upper right corner.
+- Made leveling up faster.
+- Decreased prices for buildings.
+
+-- v2.0.1 --
+October 17, 2015
+
+Updated rules and MOTD. Replaced the bomb on the Suicide Bomber. Changed medkit for medics. Added keypad cracker to Heavy Infantry units.
+
+
+-- v2.0.0 --
+October 11, 2015
+
+MilitaryRP 2.0 released! I hope you all like it. If you do, be sure to give support on the forums! If you have any suggestions or complaints, once again, post it on the forums!
