@@ -1,4 +1,4 @@
--- People often copy jobs. When they do, the GM table does not exist anymore.
+-- *People often copy jobs. When they do, the GM table does not exist anymore.
 -- This line makes the job code work both inside and outside of gamemode files.
 -- You should not copy this line into your code.
 local GAMEMODE = GAMEMODE or GM
